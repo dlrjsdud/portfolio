@@ -21,7 +21,7 @@
 >개발 기간: 2024.01.01 ~ 2024.01.14  
 >  
 >기술 스택:  
->Java 11 / Spring / Maven / MyBatis / HTML
+>Java 11 / Spring / Maven / MyBatis / HTML /
 >CSS / JS / Arduino / Oracle DB
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/Repo) 참고
