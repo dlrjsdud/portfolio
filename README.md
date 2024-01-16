@@ -1,6 +1,5 @@
 # 이건영 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
 </br>
 
 ## :pushpin: Intro
@@ -10,7 +9,6 @@
 
 ## :pushpin: Contact
 - 이메일: dlrjsdud5673@naver.com
-- 블로그: 
 - 깃헙: https://github.com/dlrjsdud
 
 </br>
